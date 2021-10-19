@@ -1,4 +1,4 @@
-Rails.application.routes.draw do
+var = Rails.application.routes.draw do
   get 'home/index'
 
   resources :articles
